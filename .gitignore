@@ -1,0 +1,20 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+camelot-env/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tableau temp / backup files
+.~*.twb*
+*.twbx~
